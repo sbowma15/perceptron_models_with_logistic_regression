@@ -1,4 +1,5 @@
 Simple Perceptron Model Explanation
+
 This Python program provides an in-depth explanation and implementation of a simple perceptron model. The perceptron is a fundamental concept in neural networks and serves as the building block for more complex models. The program covers both theoretical concepts and practical implementations using NumPy and PyTorch.
 
 Objectives of this Program
